@@ -1,0 +1,4 @@
+docs/
+.babelrc
+.gitignore
+package-lock.json
