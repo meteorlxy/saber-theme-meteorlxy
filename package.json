@@ -18,7 +18,7 @@
     "geopattern": "^1.2.3",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
-    "prismjs": "^1.16.0",
+    "prismjs": "^1.24.0",
     "saber-highlight-css": "0.0.4",
     "saber-log": "^0.2.0",
     "saber-plugin-prismjs": "^0.2.0",
